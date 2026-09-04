@@ -115,5 +115,5 @@ ELEVENLABS_API_KEY=...
 
 ## License
 
-MIT - built by [Saleem Khan](https://github.com/isaleemkhan)# voice-rag-agent
+MIT - built by [Calem Kay](https://github.com/icalemkay)# voice-rag-agent
 Voice-enabled RAG assistant — speak a question, get an AI answer spoken back. Built with Whisper, LangChain, Pinecone, FastAPI, and ElevenLabs.
